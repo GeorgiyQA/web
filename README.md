@@ -10,3 +10,5 @@ https://docs.google.com/spreadsheets/d/1ZQJo9ZnJmf9Y2o471v_sY4ssuDDpV4Nr/edit?us
 Тест-кейсы для Cart Management и Order Management в приложнии "Интернет-магазин"
 
 https://drive.google.com/file/d/1MQe--zr7zGHtsAX5qVbsBdXuSJaYrUIH/view?usp=sharing
+
+https://app.qase.io/project/G9?previewMode=side&suite=164&tab=
