@@ -12,3 +12,9 @@ https://docs.google.com/spreadsheets/d/1ZQJo9ZnJmf9Y2o471v_sY4ssuDDpV4Nr/edit?us
 https://drive.google.com/file/d/1MQe--zr7zGHtsAX5qVbsBdXuSJaYrUIH/view?usp=sharing
 
 https://app.qase.io/project/G9?previewMode=side&suite=164&tab=
+
+Отчеты о дефекте для Cart Management и Order Management в приложнии "Интернет-магазин"
+
+https://docs.google.com/spreadsheets/d/1MZcxdmCFaJO6bvKAIns5oL3yeZuadBnQ/edit?usp=sharing&ouid=109658753851926507753&rtpof=true&sd=true
+
+https://drive.google.com/file/d/1Jcm8sfE4bq2Xnruza4htfyATOo2Cug-s/view?usp=sharing
